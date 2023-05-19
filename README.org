@@ -1,0 +1,9 @@
+* collectors
+
+A Common lisp library providing collector macros.
+
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/collectors.git |
+| commit  | 748f0a1                                               |
+| systems | collectors                                            |
+|---------+-------------------------------------------------------|
