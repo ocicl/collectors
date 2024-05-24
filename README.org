@@ -4,6 +4,6 @@ A Common lisp library providing collector macros.
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/AccelerationNet/collectors.git |
-| commit  | 748f0a1                                               |
+| commit  | 4c5e70c                                               |
 | systems | collectors                                            |
 |---------+-------------------------------------------------------|
